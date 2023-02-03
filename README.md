@@ -2,9 +2,6 @@
   <a href="https://github.com/hujuu/hujuu/">
     <img src="https://komarev.com/ghpvc/?username=hujuu" alt="hujuu" />
   </a>
-  <a href="http://twitter.com/hujuu">
-    <img height="20" src="https://img.shields.io/twitter/follow/hujuu?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/hujuu">
     <img height="20" src="https://img.shields.io/github/followers/hujuu?label=follow&logo=github&style=flat" />
   </a>
